@@ -11,4 +11,6 @@ public class javametodoOverloading{
     static double divide(double a, double b){
         return a/b;
     }
+    //aqui podemos aprender con los metodos pueden tener los mismos nombre pero los parametro q reciban 
+    //diferentes
 }
